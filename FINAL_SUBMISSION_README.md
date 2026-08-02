@@ -109,7 +109,9 @@ MPLBACKEND=Agg python3 build_cs675_presentation.py
 
 ## Repository submission
 
-The folder is ready to upload to a GitHub repository. Exclude `.deps/`, `.venv/`, caches, and operating-system metadata. Submit the repository URL together with the packaged ZIP file if the assignment portal allows both.
+**GitHub repository:** https://github.com/13lsh13/cs675-warehouse-readiness
+
+The repository excludes `.deps/`, `.venv/`, caches, and operating-system metadata. Submit the repository URL together with the packaged ZIP file if the assignment portal allows both.
 
 ## Limitations
 
