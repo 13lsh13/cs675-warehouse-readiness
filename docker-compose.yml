@@ -1,0 +1,5 @@
+services:
+  readiness-pipeline:
+    build: .
+    volumes:
+      - ./data/processed:/opt/project/data/processed

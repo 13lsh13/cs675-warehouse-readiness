@@ -1,0 +1,15 @@
+.DS_Store
+.deps/
+.venv/
+__pycache__/
+*.py[cod]
+*.crc
+.idea/
+.vscode/
+spark-warehouse/
+metastore_db/
+derby.log
+terraform/.terraform/
+terraform/*.tfstate
+terraform/*.tfstate.*
+terraform/terraform.tfvars

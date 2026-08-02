@@ -1,0 +1,2 @@
+bucket_name = "replace-with-a-globally-unique-cs675-bucket-name"
+aws_region  = "us-east-1"

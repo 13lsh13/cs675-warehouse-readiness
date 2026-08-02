@@ -1,0 +1,201 @@
+product_id,product_category,packaging_type,standard_units_per_pallet,storage_area,safety_stock_pallets
+PRD-00001,Food,Bags,72,Secure,31
+PRD-00002,Paper,Bags,72,High-Bay,9
+PRD-00003,Personal Care,Cases,48,Ambient-A,35
+PRD-00004,Paper,Cartons,48,High-Bay,24
+PRD-00005,Household,Cases,60,High-Bay,17
+PRD-00006,Food,Cartons,60,Ambient-B,28
+PRD-00007,Food,Cartons,96,Temperature-Controlled,18
+PRD-00008,Beverage,Bags,36,Secure,22
+PRD-00009,Personal Care,Cartons,60,High-Bay,33
+PRD-00010,Beverage,Cartons,48,High-Bay,9
+PRD-00011,Paper,Cartons,96,High-Bay,21
+PRD-00012,Personal Care,Cases,60,Ambient-B,29
+PRD-00013,Personal Care,Bags,48,Ambient-A,12
+PRD-00014,Household,Cases,60,Ambient-A,12
+PRD-00015,Personal Care,Cases,72,Ambient-A,17
+PRD-00016,Beverage,Cases,72,High-Bay,34
+PRD-00017,Food,Drums,36,High-Bay,15
+PRD-00018,Household,Drums,60,Ambient-A,20
+PRD-00019,Paper,Bags,96,Ambient-B,14
+PRD-00020,Beverage,Drums,36,Ambient-B,28
+PRD-00021,Paper,Bags,36,Ambient-A,11
+PRD-00022,Paper,Bags,60,High-Bay,19
+PRD-00023,Personal Care,Drums,72,High-Bay,34
+PRD-00024,Household,Cases,48,Ambient-B,26
+PRD-00025,Paper,Cartons,96,High-Bay,14
+PRD-00026,Beverage,Cases,72,Ambient-A,16
+PRD-00027,Paper,Bags,60,Secure,33
+PRD-00028,Food,Drums,36,Temperature-Controlled,28
+PRD-00029,Beverage,Bags,48,Ambient-A,20
+PRD-00030,Food,Bags,72,High-Bay,24
+PRD-00031,Household,Drums,72,Ambient-B,24
+PRD-00032,Personal Care,Bags,36,Ambient-B,12
+PRD-00033,Food,Bags,36,Secure,23
+PRD-00034,Beverage,Cartons,36,Ambient-A,12
+PRD-00035,Paper,Cartons,72,Ambient-B,31
+PRD-00036,Household,Cases,36,Secure,23
+PRD-00037,Beverage,Bags,48,Ambient-A,35
+PRD-00038,Household,Bags,96,Ambient-A,17
+PRD-00039,Personal Care,Drums,60,Ambient-A,31
+PRD-00040,Household,Cartons,48,Secure,19
+PRD-00041,Beverage,Bags,60,High-Bay,12
+PRD-00042,Paper,Bags,36,High-Bay,10
+PRD-00043,Beverage,Bags,48,High-Bay,31
+PRD-00044,Beverage,Cartons,72,Ambient-A,33
+PRD-00045,Household,Drums,48,Ambient-B,26
+PRD-00046,Household,Cartons,36,Ambient-B,34
+PRD-00047,Paper,Drums,36,Ambient-A,20
+PRD-00048,Beverage,Bags,36,High-Bay,19
+PRD-00049,Personal Care,Cases,96,Secure,26
+PRD-00050,Food,Drums,36,Ambient-B,20
+PRD-00051,Household,Cases,48,Ambient-A,10
+PRD-00052,Personal Care,Bags,96,Ambient-A,32
+PRD-00053,Food,Cartons,48,Ambient-A,18
+PRD-00054,Beverage,Cases,96,High-Bay,24
+PRD-00055,Beverage,Cartons,60,Secure,13
+PRD-00056,Paper,Bags,60,Ambient-B,26
+PRD-00057,Personal Care,Cartons,60,Ambient-B,22
+PRD-00058,Household,Drums,72,Ambient-A,19
+PRD-00059,Beverage,Cartons,72,Ambient-B,18
+PRD-00060,Paper,Drums,60,Ambient-B,18
+PRD-00061,Paper,Cases,72,Ambient-B,34
+PRD-00062,Paper,Cartons,60,Ambient-A,10
+PRD-00063,Beverage,Drums,96,Ambient-B,26
+PRD-00064,Food,Drums,48,Temperature-Controlled,14
+PRD-00065,Paper,Cartons,96,Secure,26
+PRD-00066,Beverage,Drums,36,Ambient-B,28
+PRD-00067,Personal Care,Drums,36,High-Bay,20
+PRD-00068,Personal Care,Cartons,72,Secure,29
+PRD-00069,Food,Cases,72,Ambient-B,25
+PRD-00070,Paper,Cartons,72,High-Bay,33
+PRD-00071,Household,Cartons,36,High-Bay,13
+PRD-00072,Household,Cartons,36,Ambient-B,34
+PRD-00073,Food,Cartons,36,Secure,35
+PRD-00074,Food,Bags,72,Secure,21
+PRD-00075,Household,Cases,72,Ambient-A,10
+PRD-00076,Beverage,Cases,72,High-Bay,14
+PRD-00077,Household,Cartons,36,Ambient-A,15
+PRD-00078,Household,Cartons,72,Secure,13
+PRD-00079,Paper,Drums,36,Secure,35
+PRD-00080,Personal Care,Drums,72,Ambient-B,25
+PRD-00081,Food,Cases,36,Ambient-A,18
+PRD-00082,Food,Bags,96,Temperature-Controlled,35
+PRD-00083,Paper,Bags,36,Secure,25
+PRD-00084,Beverage,Bags,96,Ambient-A,11
+PRD-00085,Household,Cases,36,Secure,12
+PRD-00086,Personal Care,Bags,72,High-Bay,35
+PRD-00087,Food,Cases,96,Ambient-A,24
+PRD-00088,Personal Care,Drums,60,Ambient-B,34
+PRD-00089,Paper,Cases,96,Ambient-A,29
+PRD-00090,Beverage,Cartons,36,High-Bay,24
+PRD-00091,Food,Cases,96,Secure,29
+PRD-00092,Household,Cases,96,Ambient-A,27
+PRD-00093,Paper,Cases,60,Ambient-B,24
+PRD-00094,Beverage,Drums,96,High-Bay,24
+PRD-00095,Household,Cartons,48,Secure,27
+PRD-00096,Household,Bags,72,Ambient-B,21
+PRD-00097,Household,Drums,36,Ambient-B,35
+PRD-00098,Personal Care,Cartons,96,Secure,30
+PRD-00099,Food,Drums,60,High-Bay,32
+PRD-00100,Personal Care,Cases,72,Secure,14
+PRD-00101,Food,Drums,60,Secure,17
+PRD-00102,Personal Care,Cases,48,Ambient-A,14
+PRD-00103,Beverage,Bags,36,Secure,21
+PRD-00104,Household,Bags,60,Ambient-A,34
+PRD-00105,Food,Cartons,72,High-Bay,20
+PRD-00106,Household,Drums,60,Ambient-A,16
+PRD-00107,Beverage,Cartons,36,High-Bay,28
+PRD-00108,Household,Cartons,72,Secure,28
+PRD-00109,Paper,Cases,48,High-Bay,29
+PRD-00110,Food,Cases,36,Secure,34
+PRD-00111,Household,Cartons,96,Ambient-A,11
+PRD-00112,Personal Care,Cartons,72,Secure,20
+PRD-00113,Food,Drums,72,Temperature-Controlled,16
+PRD-00114,Food,Cases,96,Ambient-B,21
+PRD-00115,Food,Cases,60,Temperature-Controlled,19
+PRD-00116,Beverage,Drums,96,High-Bay,20
+PRD-00117,Food,Cartons,72,Temperature-Controlled,33
+PRD-00118,Paper,Bags,96,Ambient-A,28
+PRD-00119,Household,Drums,72,Ambient-B,12
+PRD-00120,Paper,Drums,48,Ambient-A,26
+PRD-00121,Food,Cartons,48,Ambient-B,23
+PRD-00122,Personal Care,Drums,60,Ambient-A,32
+PRD-00123,Personal Care,Drums,48,Ambient-A,30
+PRD-00124,Personal Care,Cartons,72,Ambient-B,30
+PRD-00125,Paper,Drums,96,Ambient-A,8
+PRD-00126,Personal Care,Bags,36,Ambient-B,21
+PRD-00127,Household,Drums,48,Ambient-A,27
+PRD-00128,Personal Care,Drums,72,High-Bay,12
+PRD-00129,Household,Bags,72,Secure,33
+PRD-00130,Personal Care,Cases,36,Ambient-B,24
+PRD-00131,Food,Cartons,60,Temperature-Controlled,24
+PRD-00132,Beverage,Drums,48,Ambient-A,34
+PRD-00133,Personal Care,Cases,36,High-Bay,23
+PRD-00134,Personal Care,Cartons,60,Ambient-B,32
+PRD-00135,Food,Cases,96,Ambient-A,17
+PRD-00136,Food,Cartons,96,Temperature-Controlled,17
+PRD-00137,Food,Drums,36,High-Bay,16
+PRD-00138,Personal Care,Cases,96,Secure,21
+PRD-00139,Beverage,Cases,96,Ambient-A,22
+PRD-00140,Paper,Drums,96,High-Bay,13
+PRD-00141,Beverage,Drums,36,Ambient-B,17
+PRD-00142,Personal Care,Cases,48,Secure,30
+PRD-00143,Paper,Bags,72,High-Bay,13
+PRD-00144,Paper,Cases,96,Ambient-B,20
+PRD-00145,Personal Care,Cartons,60,Ambient-B,20
+PRD-00146,Food,Bags,72,Temperature-Controlled,19
+PRD-00147,Beverage,Bags,96,Secure,15
+PRD-00148,Beverage,Cartons,96,Secure,23
+PRD-00149,Household,Drums,48,Ambient-B,21
+PRD-00150,Personal Care,Cases,96,Ambient-B,21
+PRD-00151,Household,Drums,96,Ambient-B,22
+PRD-00152,Paper,Cartons,72,Ambient-B,33
+PRD-00153,Household,Drums,96,High-Bay,17
+PRD-00154,Food,Cases,48,Temperature-Controlled,22
+PRD-00155,Household,Cartons,96,Secure,25
+PRD-00156,Paper,Cases,36,High-Bay,21
+PRD-00157,Paper,Cases,48,Ambient-B,25
+PRD-00158,Beverage,Cartons,36,High-Bay,28
+PRD-00159,Paper,Cartons,96,Ambient-A,24
+PRD-00160,Paper,Drums,96,Ambient-A,19
+PRD-00161,Personal Care,Bags,60,Ambient-B,10
+PRD-00162,Personal Care,Cartons,36,Ambient-A,28
+PRD-00163,Personal Care,Bags,96,High-Bay,10
+PRD-00164,Food,Cartons,48,Temperature-Controlled,30
+PRD-00165,Food,Cases,36,High-Bay,9
+PRD-00166,Beverage,Bags,96,Ambient-B,29
+PRD-00167,Food,Cartons,60,Temperature-Controlled,26
+PRD-00168,Beverage,Cases,60,Ambient-B,23
+PRD-00169,Household,Drums,60,Ambient-B,14
+PRD-00170,Personal Care,Cartons,60,Ambient-A,18
+PRD-00171,Beverage,Cartons,72,Ambient-A,33
+PRD-00172,Personal Care,Cases,36,Ambient-A,34
+PRD-00173,Household,Cartons,96,Secure,33
+PRD-00174,Household,Bags,48,Ambient-A,33
+PRD-00175,Paper,Cartons,36,Ambient-A,35
+PRD-00176,Household,Cases,72,Secure,18
+PRD-00177,Paper,Drums,48,Secure,23
+PRD-00178,Beverage,Cartons,96,High-Bay,18
+PRD-00179,Beverage,Drums,60,Ambient-B,14
+PRD-00180,Paper,Cartons,36,Ambient-A,8
+PRD-00181,Household,Drums,72,Secure,10
+PRD-00182,Beverage,Drums,96,Ambient-A,19
+PRD-00183,Paper,Cartons,72,Ambient-B,14
+PRD-00184,Paper,Cases,36,Ambient-B,32
+PRD-00185,Household,Drums,36,Secure,13
+PRD-00186,Food,Cases,72,Ambient-A,17
+PRD-00187,Personal Care,Drums,72,High-Bay,33
+PRD-00188,Personal Care,Bags,72,High-Bay,13
+PRD-00189,Beverage,Cartons,72,High-Bay,29
+PRD-00190,Beverage,Bags,96,Ambient-A,21
+PRD-00191,Household,Drums,60,Ambient-B,33
+PRD-00192,Paper,Cases,60,Secure,24
+PRD-00193,Household,Bags,36,High-Bay,31
+PRD-00194,Household,Cartons,60,Secure,13
+PRD-00195,Paper,Bags,48,Secure,21
+PRD-00196,Personal Care,Drums,60,Ambient-B,31
+PRD-00197,Personal Care,Drums,60,Ambient-B,24
+PRD-00198,Personal Care,Drums,48,High-Bay,14
+PRD-00199,Paper,Bags,48,Ambient-A,21
+PRD-00200,Food,Cartons,48,Temperature-Controlled,18
